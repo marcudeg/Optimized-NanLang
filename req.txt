@@ -1,0 +1,9 @@
+# req.txt — Unified NanLang monorepo dependencies (merged)
+# Format: package[@version]
+
+nancore@1.2.0     # core primitives
+nan-arch          # hardware abstraction
+nan-binary@0.3.2  # bytecode ops
+nan-perf@1.0.0    # perf subsystems
+nan-signal@0.8.5  # async signals
+namth@latest      # math lib example
